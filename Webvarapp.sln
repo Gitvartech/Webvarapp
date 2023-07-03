@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webvarapp", "Webvarapp\Webvarapp.csproj", "{9BAD8083-995D-476A-B3B8-629C2036DC93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAD8083-995D-476A-B3B8-629C2036DC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAD8083-995D-476A-B3B8-629C2036DC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAD8083-995D-476A-B3B8-629C2036DC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAD8083-995D-476A-B3B8-629C2036DC93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EEF83B1-A1AF-4EDC-A6C1-A6AF282EAA15}
+	EndGlobalSection
+EndGlobal
